@@ -1,8 +1,11 @@
-# San Francisco SVG Map
+# Vector Map of San Francisco built with Raphaël.js
 
-I made this map of San Francisco with [Adobe Illustrator](http://www.adobe.com/products/illustrator.html) and [Raphaël](http://raphaeljs.com) for a personal project.
-If you use this map, keep me in touch I'm curious to see your work!
+➝ [Demo](http://codepen.io/superhugo/pen/bezKs)
 
-➝ [Demo](http://superhugo.github.com/sf-map)
+## Contact
 
-You should follow me on [App.net](https://alpha.app.net/superhugo) and drop me a line to [say hello](mailto:hello@hugo.io?subject=Hello).
+Hugo Davoust
+
+- [GitHub](https://github.com/superhugo)
+- [Twitter](https://twitter.com/hugorrific)
+- [Email](mailto:hello@hugo.io?subject=Hello)
